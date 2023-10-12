@@ -1,11 +1,13 @@
 # CodingNinja
+
 1.Find Character Case
 https://www.codingninjas.com/studio/problems/find-character-case_58513
 
 2.Data Type
 https://www.codingninjas.com/studio/problems/data-type_8357232?leftPanelTab=0
 
-3. if-else (Decision Making)
+3.if-else (Decision Making)
 https://www.codingninjas.com/studio/problems/if-else-decision-making_8357235
 
-4.
+4. Switch Case statement
+https://www.codingninjas.com/studio/problems/switch-case-statement_8357244?leftPanelTab=0
